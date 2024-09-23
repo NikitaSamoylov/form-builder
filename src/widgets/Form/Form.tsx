@@ -1,9 +1,9 @@
 import { ChangeEvent, FormEvent, useState } from 'react';
-import { Dropdown } from '../../components/fields/dropdown';
-import { Checkbox } from '../../components/fields/checkbox';
-import { Text } from '../../components/fields/text';
+import { Dropdown } from '../../components/Fields/Dropdown';
+import { Checkbox } from '../../components/Fields/Checkbox';
+import { Text } from '../../components/Fields/Text';
 import { IFormFields } from './form.types';
-import { HandleButtons } from '../../components/handle-buttons';
+import { HandleButtons } from '../../components/HandleButtons';
 import styles from './Form.module.css';
 
 const Form: React.FC = () => {

@@ -1,5 +1,5 @@
 import { IFields } from "../fields.types";
-import { FieldTemplate } from "../../field-template";
+import { FieldTemplate } from "../../FieldTemplate";
 import styles from "./checkbox.module.css";
 
 const Checkbox: React.FC<IFields> = ({

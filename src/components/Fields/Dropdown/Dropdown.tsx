@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { IFields } from "../fields.types";
-import { FieldTemplate } from "../../field-template";
+import { FieldTemplate } from "../../FieldTemplate";
 import styles from "./Dropdown.module.css";
 
 const Dropdown: React.FC<IFields> = ({

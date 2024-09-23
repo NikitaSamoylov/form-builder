@@ -1,4 +1,4 @@
-import { Button } from '../button';
+import { Button } from '../Button';
 import { THandleButtons } from './hande-buttons.types';
 import styles from './HandleButtons.module.css';
 

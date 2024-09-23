@@ -1,5 +1,5 @@
 import { IFields } from "../fields.types";
-import { FieldTemplate } from "../../field-template";
+import { FieldTemplate } from "../../FieldTemplate";
 import styles from "./Text.module.css";
 
 const Text: React.FC<IFields> = ({

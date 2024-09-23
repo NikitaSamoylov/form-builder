@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
-import { IFields } from "../fields/fields.types";
+import { IFields } from "../Fields/fields.types";
 
 export type TFieldTemplate = Pick<
   IFields,
