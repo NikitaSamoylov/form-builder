@@ -1,0 +1,41 @@
+.form__item {
+  margin-bottom: 20px;
+}
+
+.field__content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  transition: .3s;
+  margin-bottom: 10px;
+}
+
+.label {
+  font-size: 16px;
+  display: block;
+}
+
+.field__edit {
+  display: block;
+  font-family: inherit;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  transition: .3s;
+}
+
+.button {
+  padding: 5px;
+  font-size: 14px;
+}
+
+.button__remove {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+
+.hidden {
+  display: none;
+}

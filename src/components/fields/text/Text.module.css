@@ -1,0 +1,14 @@
+.field {
+    padding: 10px 15px;
+    border: none;
+    outline: 1px solid lightgrey;
+    font-family: inherit;
+    font-size: 16px;
+    border-radius: 5px;
+    transform: .3s;
+    margin-bottom: 10px;
+  }
+  
+  .field:focus {
+    outline: 2px solid lightgreen;
+  }

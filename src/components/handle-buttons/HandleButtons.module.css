@@ -1,0 +1,9 @@
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons__item:not(:last-of-type) {
+  margin-right: 20px;
+}
